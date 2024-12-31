@@ -1,0 +1,139 @@
+
+body{
+  background-color: aliceblue;
+}
+
+.who-body{
+  padding: 10px;
+}
+
+.container1{
+  display: flex;
+  flex-direction: column;
+}
+.card{
+  background-color: white;
+  margin-top: 60px;
+  height: auto;
+  box-shadow: 0 4px 8px rgb(102, 102, 102);
+  padding: 10px;
+}
+
+.man{
+  width: 50px;
+}
+
+.info{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+h6{
+  margin-top: 12px;
+}
+
+.chek{
+  width: 40px;
+}
+
+b{
+  text-align: center;
+}
+
+
+/* تصميم صفحة الفورم */
+
+header{
+ 
+  background-color: #22177A;
+  padding: 50px 0;
+color:white;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.hhh{
+  text-align: center;
+}
+
+.container{
+
+  padding: 30px;
+  max-width: 800px;
+  display: flex;
+  flex-direction: row;
+  margin-top: -10px;
+  justify-content: center;
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+form{
+     
+    padding: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top: -40px;
+}
+label{
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 6px;
+}
+input{
+  width: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  padding: 5px;
+  border: solid 2px rgb(210, 210, 210);
+}
+
+textarea{
+  
+  width: 100%;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  padding: 5px;
+  border: solid 2px rgb(210, 210, 210);
+}
+
+button{
+  width: 100%;
+  background-color:#22177A;
+  color:white;
+  border: none;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  margin-top: 6px;
+  margin-bottom: 20px;
+}
+
+span{
+  color: #22177A;
+}
+.hh4{
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color:#22177A;
+  text-align: center;
+}
